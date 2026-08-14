@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,679 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-13 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,679 | 🐛 1,542 | 🌐 TypeScript | 📅 2026-08-13 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,686 | 🐛 1,543 | 🌐 TypeScript | 📅 2026-08-14 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,686 | 🐛 1,543 | 🌐 TypeScript | 📅 2026-08-14 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -271,7 +271,7 @@ A collection of open-source tools for Readwise and Reader.
 * [readwise2directory](https://github.com/nicrivard/readwise2directory) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2022-06-11 - Update and store highlights locally (in markdown).
 * [rextract](https://github.com/zachwick/rextract) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2021-10-28 - A toolchain for moving Remarkable highlights to Readwise.
 * [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-05-08 - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
-* [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - An Alfred Workflow for your Readwise account.
+* [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - An Alfred Workflow for your Readwise account.
 * [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) ⭐ 16 | 🐛 4 | 🌐 Rust | 📅 2023-07-08 - Create EPUBs from your Readwise Reader inbox.
 * [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-07-29 - A script that pushes all quotes from a folder to Readwise.
 * [Kindle-highlight-to-Word-document-script](https://github.com/AEchRod/Kindle-highlight-to-Word-document-script) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-04-25 - Create a Word document from your highlights.
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
