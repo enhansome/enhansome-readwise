@@ -561,10 +561,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:21:18Z",
+            "last_commit": "2026-08-16T05:55:22Z",
             "owner": "raycast",
             "repo": "extensions",
-            "stars": 7685
+            "stars": 7684
           }
         },
         {
@@ -575,10 +575,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:21:18Z",
+            "last_commit": "2026-08-16T05:55:22Z",
             "owner": "raycast",
             "repo": "extensions",
-            "stars": 7685
+            "stars": 7684
           }
         }
       ],
@@ -1118,7 +1118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:51:24.525Z",
+    "last_updated": "2026-08-16T08:53:18.190Z",
     "original_repository": "Scarvy/awesome-readwise",
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
     "enhanced_repository": "enhansome/enhansome-readwise",
