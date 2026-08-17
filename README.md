@@ -100,7 +100,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 298 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 299 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -148,13 +148,13 @@ A collection of open-source tools for Readwise and Reader.
 
 ### MCP - Model Context Protocol
 
-* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-05 - A Node.js HTTP server that provides proper MCP over HTTP.
+* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-17 - A Node.js HTTP server that provides proper MCP over HTTP.
 * [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 * [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-03 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,684 | 🐛 1,570 | 🌐 TypeScript | 📅 2026-08-16 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,684 | 🐛 1,570 | 🌐 TypeScript | 📅 2026-08-16 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,687 | 🐛 1,573 | 🌐 TypeScript | 📅 2026-08-17 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,687 | 🐛 1,573 | 🌐 TypeScript | 📅 2026-08-17 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -268,7 +268,7 @@ A collection of open-source tools for Readwise and Reader.
 ### Other
 
 * [Readform](https://github.com/fr0der1c/Readform) ⭐ 83 | 🐛 4 | 🌐 Go | 📅 2024-03-09 - Send full articles from paywalled news websites to Reader feed.
-* [readwise2directory](https://github.com/nicrivard/readwise2directory) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2022-06-11 - Update and store highlights locally (in markdown).
+* [readwise2directory](https://github.com/nicrivard/readwise2directory) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2022-06-11 - Update and store highlights locally (in markdown).
 * [rextract](https://github.com/zachwick/rextract) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2021-10-28 - A toolchain for moving Remarkable highlights to Readwise.
 * [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-05-08 - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
 * [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - An Alfred Workflow for your Readwise account.
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
