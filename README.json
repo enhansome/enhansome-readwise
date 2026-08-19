@@ -164,7 +164,7 @@
                 "last_commit": "2026-07-09T16:09:59Z",
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -598,10 +598,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T08:28:00Z",
+                "last_commit": "2026-08-19T10:08:10Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7696
+                "stars": 7698
               }
             },
             {
@@ -613,10 +613,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T08:28:00Z",
+                "last_commit": "2026-08-19T10:08:10Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7696
+                "stars": 7698
               }
             }
           ],
@@ -769,7 +769,7 @@
                 "archived": false,
                 "id": 622386531,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:54:42Z",
+                "last_commit": "2026-08-19T10:31:45Z",
                 "owner": "giovannicoppola",
                 "repo": "alfred-readwise",
                 "stars": 16
@@ -1190,8 +1190,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:01:55.229Z",
+    "last_updated": "2026-08-19T12:51:16.247Z",
     "original_repository": "Scarvy/awesome-readwise",
+    "original_repository_id": 742628088,
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
     "enhanced_repository": "enhansome/enhansome-readwise",
     "enhanced_repository_description": null,

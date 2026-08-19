@@ -110,7 +110,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### CLI
 
-* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 69 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-09 - The official RW CLI.
+* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-09 - The official RW CLI.
 * [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - A Python-based CLI for Readwise Reader.
 * [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-01-01 - Sync Readwise highlights to local files.
 * [readwise](https://github.com/thoreinstein/readwise) ⭐ 4 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,696 | 🐛 1,561 | 🌐 TypeScript | 📅 2026-08-19 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,696 | 🐛 1,561 | 🌐 TypeScript | 📅 2026-08-19 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,698 | 🐛 1,548 | 🌐 TypeScript | 📅 2026-08-19 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,698 | 🐛 1,548 | 🌐 TypeScript | 📅 2026-08-19 - extension to interact with Readwise.
 
 ### RemNote
 
