@@ -127,7 +127,7 @@
                 "last_commit": "2026-03-14T23:25:44Z",
                 "owner": "readwiseio",
                 "repo": "readwise-mcp",
-                "stars": 153
+                "stars": 152
               }
             },
             {
@@ -598,10 +598,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T08:13:30Z",
+                "last_commit": "2026-08-22T07:21:48Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7701
+                "stars": 7702
               }
             },
             {
@@ -613,10 +613,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T08:13:30Z",
+                "last_commit": "2026-08-22T07:21:48Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7701
+                "stars": 7702
               }
             }
           ],
@@ -1190,7 +1190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:05:11.455Z",
+    "last_updated": "2026-08-22T08:54:14.927Z",
     "original_repository": "Scarvy/awesome-readwise",
     "original_repository_id": 742628088,
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
