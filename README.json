@@ -90,7 +90,7 @@
                 "last_commit": "2026-06-19T05:27:11Z",
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 302
+                "stars": 303
               }
             },
             {
@@ -383,7 +383,7 @@
                 "archived": false,
                 "id": 1046342851,
                 "language": "Python",
-                "last_commit": "2026-08-17T15:36:56Z",
+                "last_commit": "2026-08-24T04:15:06Z",
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
                 "stars": 1
@@ -408,7 +408,7 @@
                 "last_commit": "2025-09-29T07:44:27Z",
                 "owner": "marcus-crane",
                 "repo": "october",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -598,10 +598,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:22:22Z",
+                "last_commit": "2026-08-24T07:19:33Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7703
+                "stars": 7706
               }
             },
             {
@@ -613,10 +613,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:22:22Z",
+                "last_commit": "2026-08-24T07:19:33Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7703
+                "stars": 7706
               }
             }
           ],
@@ -1190,7 +1190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:54:35.911Z",
+    "last_updated": "2026-08-24T09:10:28.087Z",
     "original_repository": "Scarvy/awesome-readwise",
     "original_repository_id": 742628088,
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",

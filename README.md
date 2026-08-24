@@ -100,7 +100,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 302 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 303 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -148,7 +148,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### MCP - Model Context Protocol
 
-* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-17 - A Node.js HTTP server that provides proper MCP over HTTP.
+* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-24 - A Node.js HTTP server that provides proper MCP over HTTP.
 * [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 * [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
@@ -166,7 +166,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Kobo
 
-* [october](https://github.com/marcus-crane/october) ⭐ 239 | 🐛 37 | 🌐 Go | 📅 2025-09-29 - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
+* [october](https://github.com/marcus-crane/october) ⭐ 240 | 🐛 37 | 🌐 Go | 📅 2025-09-29 - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
 * [kobwise](https://github.com/osteel/kobwise) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2023-01-08 - Convert Kobo annotations into Readwise highlights.
 * [kobo-to-readwise](https://github.com/zakkolar/kobo-to-readwise) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-18 - Extract highlights from Kobo devices and convert them into a CSV file for Readwise.
 * [kobo\_readwise](https://github.com/taiansu/kobo_readwise) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-21 - Send Kobo eReader bookmarks to Readwise.
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,703 | 🐛 1,552 | 🌐 TypeScript | 📅 2026-08-23 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,703 | 🐛 1,552 | 🌐 TypeScript | 📅 2026-08-23 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,706 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-08-24 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,706 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-08-24 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
