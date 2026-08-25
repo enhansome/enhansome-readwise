@@ -834,10 +834,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:07:38Z",
+                "last_commit": "2026-08-25T05:04:54Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7709
+                "stars": 7710
               }
             },
             {
@@ -849,10 +849,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:07:38Z",
+                "last_commit": "2026-08-25T05:04:54Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7709
+                "stars": 7710
               }
             }
           ],
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:02.035Z",
+    "last_updated": "2026-08-25T06:20:25.780Z",
     "original_repository": "Scarvy/awesome-readwise",
     "original_repository_id": 742628088,
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
