@@ -113,7 +113,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 * [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-09 - The official RW CLI.
 * [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - A Python-based CLI for Readwise Reader.
 * [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-01-01 - Sync Readwise highlights to local files.
-* [readwise](https://github.com/thoreinstein/readwise) ⭐ 4 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
+* [readwise](https://github.com/thoreinstein/readwise) ⭐ 5 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
 * [readwise-reader-cli](https://github.com/lis186/readwise-reader-cli) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-02 - A TS-based CLI for RW Reader API.
 * [readwise-rs](https://github.com/prasincs/readwise-rs) ⭐ 0 | 🐛 3 | 🌐 Rust | 📅 2023-10-09 - A Rust-based CLI for RW.
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,710 | 🐛 1,568 | 🌐 TypeScript | 📅 2026-08-25 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,710 | 🐛 1,568 | 🌐 TypeScript | 📅 2026-08-25 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,711 | 🐛 1,561 | 🌐 TypeScript | 📅 2026-08-26 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,711 | 🐛 1,561 | 🌐 TypeScript | 📅 2026-08-26 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
