@@ -221,7 +221,7 @@
                 "archived": false,
                 "id": 1153715846,
                 "language": "TypeScript",
-                "last_commit": "2026-07-09T16:09:59Z",
+                "last_commit": "2026-08-27T04:37:50Z",
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
                 "stars": 70
@@ -509,7 +509,7 @@
                 "archived": false,
                 "id": 1046342851,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:15:06Z",
+                "last_commit": "2026-08-26T20:41:04Z",
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
                 "stars": 1
@@ -834,10 +834,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T05:55:30Z",
+                "last_commit": "2026-08-27T10:12:41Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7711
+                "stars": 7713
               }
             },
             {
@@ -849,10 +849,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T05:55:30Z",
+                "last_commit": "2026-08-27T10:12:41Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7711
+                "stars": 7713
               }
             }
           ],
@@ -1580,9 +1580,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:08:01.244Z",
-    "original_repository": "Scarvy/awesome-readwise",
-    "original_repository_id": 742628088,
+    "last_updated": "2026-08-27T11:59:52.601Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 742628088,
+      "language": null,
+      "last_commit": "2026-07-28T13:05:26Z",
+      "owner": "Scarvy",
+      "repo": "awesome-readwise",
+      "stars": 303
+    },
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
     "enhanced_repository": "enhansome/enhansome-readwise",
     "enhanced_repository_description": null,
