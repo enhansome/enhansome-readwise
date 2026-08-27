@@ -834,10 +834,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:12:41Z",
+                "last_commit": "2026-08-27T17:55:49Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7713
+                "stars": 7714
               }
             },
             {
@@ -849,10 +849,10 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:12:41Z",
+                "last_commit": "2026-08-27T17:55:49Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7713
+                "stars": 7714
               }
             }
           ],
@@ -1580,7 +1580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:52.601Z",
+    "last_updated": "2026-08-27T19:09:48.345Z",
     "original_repository_info": {
       "archived": false,
       "id": 742628088,
