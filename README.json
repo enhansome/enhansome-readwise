@@ -16,7 +16,8 @@
             "owner": "rwxd",
             "repo": "pyreadwise",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "floscha",
             "repo": "readwise-api",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ethanholz",
             "repo": "readwise-go",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "joshbeckman",
             "repo": "readwise-ruby",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Scarvy",
             "repo": "readwise-reader-api",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "terror",
             "repo": "readwise",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:16:24.674Z"
         },
         {
           "children": [
@@ -108,7 +114,8 @@
                 "owner": "herczogzoltan",
                 "repo": "readwise-postman",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Scarvy",
                 "repo": "readwise-bruno",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -150,8 +158,9 @@
                 "last_commit": "2026-06-19T05:27:11Z",
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 303
-              }
+                "stars": 304
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "ryanlyn",
                 "repo": "readwise-skill",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -188,7 +198,8 @@
                 "owner": "readwiseio",
                 "repo": "readwise-mcp",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "arnaldo-delisio",
                 "repo": "readwise-mcp-enhanced",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -225,7 +237,8 @@
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "Scarvy",
                 "repo": "readwise-reader-cli",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "heshanpadmasiri",
                 "repo": "ReadwiseSync",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "thoreinstein",
                 "repo": "readwise",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "lis186",
                 "repo": "readwise-reader-cli",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "prasincs",
                 "repo": "readwise-rs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -328,7 +346,8 @@
                 "owner": "smoothbrain-ai",
                 "repo": "smoothbrain-anki",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -343,7 +362,8 @@
                 "owner": "bramses",
                 "repo": "quoordinates",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -358,7 +378,8 @@
                 "owner": "acmeyer",
                 "repo": "readwise-chat",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -373,7 +394,8 @@
                 "owner": "intellectronica",
                 "repo": "readwise-highlights-chat",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -395,7 +417,8 @@
                 "owner": "alloy-org",
                 "repo": "readwise",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -417,7 +440,8 @@
                 "owner": "mattbarlow-sg",
                 "repo": "readwise-anki",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -432,7 +456,8 @@
                 "owner": "etbutler",
                 "repo": "readwise2anki",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -447,7 +472,8 @@
                 "owner": "volker-fr",
                 "repo": "readwise2anki",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -469,7 +495,8 @@
                 "owner": "tibobrc",
                 "repo": "Blinkist-to-Readwise",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -491,7 +518,8 @@
                 "owner": "iamwillbar",
                 "repo": "calibre-plugin-readwise",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -513,7 +541,8 @@
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -535,7 +564,8 @@
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -557,7 +587,8 @@
                 "owner": "biokraft",
                 "repo": "kindle2readwise",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -579,7 +610,8 @@
                 "owner": "marcus-crane",
                 "repo": "october",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -594,7 +626,8 @@
                 "owner": "osteel",
                 "repo": "kobwise",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -609,7 +642,8 @@
                 "owner": "zakkolar",
                 "repo": "kobo-to-readwise",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -624,7 +658,8 @@
                 "owner": "taiansu",
                 "repo": "kobo_readwise",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -646,7 +681,8 @@
                 "owner": "tomtom800",
                 "repo": "readwisereader",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -668,7 +704,8 @@
                 "owner": "quinncomendant",
                 "repo": "Reade.lbaction",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -690,7 +727,8 @@
                 "owner": "benjypng",
                 "repo": "logseq-readwise-plugin",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -705,7 +743,8 @@
                 "owner": "pstuifzand",
                 "repo": "logseq-readwise-reader-export",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -727,7 +766,8 @@
                 "owner": "nicolevanderhoeven",
                 "repo": "mastobot",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -748,8 +788,9 @@
                 "last_commit": "2021-08-27T15:16:04Z",
                 "owner": "renehernandez",
                 "repo": "obsidian-readwise",
-                "stars": 115
-              }
+                "stars": 114
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -764,7 +805,8 @@
                 "owner": "TfTHacker",
                 "repo": "obsidian-readwise-inbox",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -779,7 +821,8 @@
                 "owner": "joerncodes",
                 "repo": "obsidian-readwise-reader",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -801,7 +844,8 @@
                 "owner": "basepi",
                 "repo": "reader_to_pinboard",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -816,7 +860,8 @@
                 "owner": "moefuerst",
                 "repo": "reader2pinboard",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -834,11 +879,12 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:55:49Z",
+                "last_commit": "2026-08-28T17:37:59Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7714
-              }
+                "stars": 7715
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -849,11 +895,12 @@
                 "archived": false,
                 "id": 408858330,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:55:49Z",
+                "last_commit": "2026-08-28T17:37:59Z",
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7714
-              }
+                "stars": 7715
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -875,7 +922,8 @@
                 "owner": "bjsi",
                 "repo": "remnote-readwise",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -897,7 +945,8 @@
                 "owner": "jammastergirish",
                 "repo": "Readwise2Roam",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -919,7 +968,8 @@
                 "owner": "nicolevanderhoeven",
                 "repo": "shortform-to-readwise",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -941,7 +991,8 @@
                 "owner": "ixnet",
                 "repo": "readwise_telegram_bot",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -963,7 +1014,8 @@
                 "owner": "floriankilian",
                 "repo": "SaveToReadwiseReaderOnTwitter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -985,7 +1037,8 @@
                 "owner": "rwxd",
                 "repo": "wallabag2readwise",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -1007,7 +1060,8 @@
                 "owner": "fuergaosi233",
                 "repo": "wereadwise",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1076,8 @@
                 "owner": "wogong",
                 "repo": "weread-to-readwise",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -1044,7 +1099,8 @@
                 "owner": "zackdn",
                 "repo": "readwise-workflowy-integration",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -1066,7 +1122,8 @@
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1138,8 @@
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise-Sync",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -1103,7 +1161,8 @@
                 "owner": "fr0der1c",
                 "repo": "Readform",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1118,7 +1177,8 @@
                 "owner": "nicrivard",
                 "repo": "readwise2directory",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1193,8 @@
                 "owner": "zachwick",
                 "repo": "rextract",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1209,8 @@
                 "owner": "LZong-tw",
                 "repo": "readwise-reader-management",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1225,8 @@
                 "owner": "giovannicoppola",
                 "repo": "alfred-readwise",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1178,7 +1241,8 @@
                 "owner": "GeorgeHahn",
                 "repo": "readwise-epub",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1193,7 +1257,8 @@
                 "owner": "bobbyhiddn",
                 "repo": "Readwise.md",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1208,7 +1273,8 @@
                 "owner": "AEchRod",
                 "repo": "Kindle-highlight-to-Word-document-script",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1223,7 +1289,8 @@
                 "owner": "marcus-crane",
                 "repo": "comments-to-readwise",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1238,7 +1305,8 @@
                 "owner": "riclib",
                 "repo": "mem-readwise-sync",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1253,7 +1321,8 @@
                 "owner": "jckw",
                 "repo": "readwise-feed",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1337,8 @@
                 "owner": "micahlt",
                 "repo": "scribd-readwise-integration",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1353,8 @@
                 "owner": "jchen1",
                 "repo": "plus-readwise",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1369,8 @@
                 "owner": "maxprogram",
                 "repo": "readspace",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1385,8 @@
                 "owner": "bit-of-a-shambles",
                 "repo": "readwise-GPT-tagger",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1401,8 @@
                 "owner": "elchead",
                 "repo": "readwise-note-extractor",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1417,8 @@
                 "owner": "rockiedo",
                 "repo": "readwise-lite",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1358,7 +1433,8 @@
                 "owner": "dexter-stpierre",
                 "repo": "diiggo-to-readwise",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1373,7 +1449,8 @@
                 "owner": "sodastereo",
                 "repo": "enhanced-readwise-reader",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1388,7 +1465,8 @@
                 "owner": "th1nkful",
                 "repo": "miniflux-to-reader",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1403,7 +1481,8 @@
                 "owner": "mattflux",
                 "repo": "readwise-craft-extension",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1418,7 +1497,8 @@
                 "owner": "fedragon",
                 "repo": "readwise-s3",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1433,7 +1513,8 @@
                 "owner": "natterstefan",
                 "repo": "readwise-template",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1448,7 +1529,8 @@
                 "owner": "luhmann",
                 "repo": "raindrop-highlights-readwise",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1545,8 @@
                 "owner": "marcus-crane",
                 "repo": "reader-google-docs",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1478,7 +1561,8 @@
                 "owner": "TedisAgolli",
                 "repo": "readwise-random-quote",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1577,8 @@
                 "owner": "ondrejfuhrer",
                 "repo": "readwise-reader-desktop",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1508,7 +1593,8 @@
                 "owner": "terror",
                 "repo": "readwise-ulysses",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1523,7 +1609,8 @@
                 "owner": "clement0910",
                 "repo": "readwise_to_discord",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1538,7 +1625,8 @@
                 "owner": "lockcp",
                 "repo": "mrexpt2html",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1553,7 +1641,8 @@
                 "owner": "ashrithr",
                 "repo": "tana-readwise-exporter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             },
             {
               "node_type": "item",
@@ -1568,7 +1657,8 @@
                 "owner": "volker-fr",
                 "repo": "readwise-reader-filter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
             }
           ],
           "description": null,
@@ -1580,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:48.345Z",
+    "last_updated": "2026-08-28T20:16:24.674Z",
     "original_repository_info": {
       "archived": false,
       "id": 742628088,
@@ -1588,7 +1678,7 @@
       "last_commit": "2026-07-28T13:05:26Z",
       "owner": "Scarvy",
       "repo": "awesome-readwise",
-      "stars": 303
+      "stars": 304
     },
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
     "enhanced_repository": "enhansome/enhansome-readwise",

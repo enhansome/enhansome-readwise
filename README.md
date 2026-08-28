@@ -100,7 +100,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 303 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 304 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -194,7 +194,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Obsidian
 
-* [obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) ⭐ 115 | 🐛 15 | 🌐 TypeScript | 📅 2021-08-27 - Sync Readwise highlights into your Obsidian vault.
+* [obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) ⭐ 114 | 🐛 15 | 🌐 TypeScript | 📅 2021-08-27 - Sync Readwise highlights into your Obsidian vault.
 * [obsidian-readwise-inbox](https://github.com/TfTHacker/obsidian-readwise-inbox) ⭐ 79 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-12 - An inbox for processing Readwise highlights in Obsidian.
 * [obsidian-readwise-reader](https://github.com/joerncodes/obsidian-readwise-reader) ⭐ 28 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-24 - An Obsidian plugin to publish notes to Readwise Reader.
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,714 | 🐛 1,572 | 🌐 TypeScript | 📅 2026-08-27 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,714 | 🐛 1,572 | 🌐 TypeScript | 📅 2026-08-27 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,715 | 🐛 1,584 | 🌐 TypeScript | 📅 2026-08-28 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,715 | 🐛 1,584 | 🌐 TypeScript | 📅 2026-08-28 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
