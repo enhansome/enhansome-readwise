@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python Module to use the Readwise API",
+            "homepage": "https://rwxd.github.io/pyreadwise/",
             "id": 610483551,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-24T17:37:20Z",
+            "open_issues": 10,
             "owner": "rwxd",
             "repo": "pyreadwise",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "python",
+              "readwise"
+            ]
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial Python client for the Readwise Reader API.",
+            "homepage": null,
             "id": 649679027,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T18:44:15Z",
+            "open_issues": 0,
             "owner": "floscha",
             "repo": "readwise-api",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -42,12 +55,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Readwise API wrapper written in Go.",
+            "homepage": null,
             "id": 511748205,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-29T00:07:08Z",
+            "open_issues": 0,
             "owner": "ethanholz",
             "repo": "readwise-go",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -58,12 +76,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Readwise and Reader API client and highlight parsing library",
+            "homepage": "https://rubygems.org/gems/readwise",
             "id": 589730156,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-07-18T03:08:38Z",
+            "open_issues": 2,
             "owner": "joshbeckman",
             "repo": "readwise-ruby",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "gem",
+              "readwise",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -74,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial JS/TS client for the Readwise Reader API 📚",
+            "homepage": null,
             "id": 742625740,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2024-08-20T18:29:18Z",
+            "open_issues": 0,
             "owner": "Scarvy",
             "repo": "readwise-reader-api",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "api-client",
+              "javascript",
+              "readwise",
+              "readwise-reader",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -90,12 +128,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rust wrapper for the Readwise API",
+            "homepage": null,
             "id": 336892107,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2022-10-15T15:27:20Z",
+            "open_issues": 1,
             "owner": "terror",
             "repo": "readwise",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "api-wrapper",
+              "readwise",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:16:24.674Z"
         },
@@ -108,12 +155,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postman collection for Readwise API endpoints",
+                "homepage": null,
                 "id": 389655308,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-04-20T22:03:36Z",
+                "open_issues": 0,
                 "owner": "herczogzoltan",
                 "repo": "readwise-postman",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "postman-collection",
+                  "postman-example",
+                  "readwise-highlights"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -124,12 +180,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bruno collection for Readwise and Reader API endpoints",
+                "homepage": null,
                 "id": 749511181,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-28T19:34:56Z",
+                "open_issues": 0,
                 "owner": "Scarvy",
                 "repo": "readwise-bruno",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "api-collection",
+                  "api-endpoints",
+                  "bruno",
+                  "readwise",
+                  "readwise-reader"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -153,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent skills for your Readwise and Reader data, powered by the Readwise MCP server/CLI.  Triage your inbox, quiz yourself on what you've read, build a personalized now-reading page, and more.",
+                "homepage": "https://readwise.io/mcp",
                 "id": 1168925738,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-19T05:27:11Z",
+                "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -169,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skill and CLI for Readwise + Reader",
+                "homepage": null,
                 "id": 1148689002,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-03T05:57:21Z",
+                "open_issues": 1,
                 "owner": "ryanlyn",
                 "repo": "readwise-skill",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -192,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Readwise MCP",
+                "homepage": null,
                 "id": 964165177,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-14T23:25:44Z",
+                "open_issues": 6,
                 "owner": "readwiseio",
                 "repo": "readwise-mcp",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -208,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced MCP server unifying Readwise Reader + Highlights with AI-powered text processing and context optimization",
+                "homepage": null,
                 "id": 1033127780,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T00:06:19Z",
+                "open_issues": 3,
                 "owner": "arnaldo-delisio",
                 "repo": "readwise-mcp-enhanced",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -231,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1153715846,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T04:37:50Z",
+                "open_issues": 6,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -247,12 +339,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Readwise Reader 📖 in the Command-line (CLI) 💻",
+                "homepage": null,
                 "id": 677163210,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-26T00:02:28Z",
+                "open_issues": 0,
                 "owner": "Scarvy",
                 "repo": "readwise-reader-cli",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "api",
+                  "cli",
+                  "command-line",
+                  "python",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -263,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI application to sync your readwise highlights to local files",
+                "homepage": null,
                 "id": 736657787,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-01-01T08:00:27Z",
+                "open_issues": 5,
                 "owner": "heshanpadmasiri",
                 "repo": "ReadwiseSync",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -279,12 +387,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gemini CLI extension for interfacing with your Readwise Reader https://read.readwise.io highlights",
+                "homepage": null,
                 "id": 1152197524,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-07T14:25:13Z",
+                "open_issues": 0,
                 "owner": "thoreinstein",
                 "repo": "readwise",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gemini-cli",
+                  "gemini-cli-extensions",
+                  "gemini-extensions",
+                  "readwise",
+                  "readwise-highlights",
+                  "readwise-reader"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -295,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool for Readwise Reader API",
+                "homepage": null,
                 "id": 1126529335,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-02T11:20:01Z",
+                "open_issues": 0,
                 "owner": "lis186",
                 "repo": "readwise-reader-cli",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -311,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic readwise cli and library for working with Readwise API",
+                "homepage": null,
                 "id": 660628080,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-10-09T08:04:19Z",
+                "open_issues": 3,
                 "owner": "prasincs",
                 "repo": "readwise-rs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -340,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SmoothBrain is an Anki plugin that fetches Readwise highlights and makes flashcards using OpenAI GPT.",
+                "homepage": null,
                 "id": 602890242,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-25T12:47:09Z",
+                "open_issues": 29,
                 "owner": "smoothbrain-ai",
                 "repo": "smoothbrain-anki",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -356,12 +491,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use OpenAI Embeddings to visualize Kindle Highlights from Readwise!",
+                "homepage": "https://atlas.nomic.ai/map/2f41176d-366b-4e21-a915-607320cee284/3cdfc12c-dd63-4a08-87ca-063c710379dd",
                 "id": 670379756,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-14T16:48:36Z",
+                "open_issues": 2,
                 "owner": "bramses",
                 "repo": "quoordinates",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "embeddings",
+                  "future-of-reading",
+                  "kindle",
+                  "nomic",
+                  "openai",
+                  "readwise",
+                  "supabase"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -372,12 +520,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A chat bot that pulls from your Readwise highlights, using ChatGPT API.",
+                "homepage": null,
                 "id": 610104666,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-25T22:27:03Z",
+                "open_issues": 1,
                 "owner": "acmeyer",
                 "repo": "readwise-chat",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "books",
+                  "chatbot",
+                  "gpt",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -388,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640648182,
                 "language": "Jupyter Notebook",
+                "license": "Unlicense",
                 "last_commit": "2023-05-14T19:22:58Z",
+                "open_issues": 0,
                 "owner": "intellectronica",
                 "repo": "readwise-highlights-chat",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -411,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amplenote Readwise integration",
+                "homepage": null,
                 "id": 469581936,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-18T17:29:32Z",
+                "open_issues": 1,
                 "owner": "alloy-org",
                 "repo": "readwise",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -434,12 +602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Unofficial) Readwise Add-on For Anki",
+                "homepage": null,
                 "id": 686164540,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-04T11:36:28Z",
+                "open_issues": 0,
                 "owner": "mattbarlow-sg",
                 "repo": "readwise-anki",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -450,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Anki plugin used to export Readwise highlights to Anki",
+                "homepage": null,
                 "id": 633098833,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-19T01:37:24Z",
+                "open_issues": 0,
                 "owner": "etbutler",
                 "repo": "readwise2anki",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -466,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1115966727,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-25T01:46:22Z",
+                "open_issues": 0,
                 "owner": "volker-fr",
                 "repo": "readwise2anki",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -489,12 +672,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract highlights from your Blinkist account and upload them to your Readwise account, or download them to a CSV file.",
+                "homepage": null,
                 "id": 356832061,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-12T21:40:49Z",
+                "open_issues": 3,
                 "owner": "tibobrc",
                 "repo": "Blinkist-to-Readwise",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "blinkist",
+                  "blinkist-highlights",
+                  "blinkist-to-readwise",
+                  "highlights",
+                  "python",
+                  "readwise",
+                  "readwise-highlights",
+                  "scraper"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -512,12 +709,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calibre plugin to export your highlights to Readwise. This plugin is not supported by Readwise - please report any issues in this repository.",
+                "homepage": null,
                 "id": 338931980,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-20T10:54:39Z",
+                "open_issues": 11,
                 "owner": "iamwillbar",
                 "repo": "calibre-plugin-readwise",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "calibre-plugin",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -535,12 +740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Readwise + Readwise Reader. Engagement-aware reads, write tools, and a markdown → real-EPUB-in-Reader-Library pipeline via SMTP. FastMCP, Python 3.12, Docker.",
+                "homepage": null,
                 "id": 1046342851,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:41:04Z",
+                "open_issues": 13,
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -558,12 +768,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract readwise highlights into a datasette sqlite DB",
+                "homepage": "https://github.com/iloveitaly/readwise-to-datasette",
                 "id": 735390857,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-17T12:09:40Z",
+                "open_issues": 0,
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "datasette",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -581,12 +799,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export your Kindle \"My Clippings.txt\" to Readwise",
+                "homepage": null,
                 "id": 967301054,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-26T09:32:54Z",
+                "open_issues": 1,
                 "owner": "biokraft",
                 "repo": "kindle2readwise",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "automation",
+                  "kindle",
+                  "python",
+                  "reader",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -604,12 +833,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GUI for retrieving Kobo highlights and syncing them with Readwise",
+                "homepage": "https://october.utf9k.net",
                 "id": 362689132,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-09-29T07:44:27Z",
+                "open_issues": 37,
                 "owner": "marcus-crane",
                 "repo": "october",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "golang",
+                  "gui",
+                  "kobo",
+                  "kobo-ereader",
+                  "macos",
+                  "react",
+                  "react-router-dom",
+                  "tailwind",
+                  "tailwindcss",
+                  "wails",
+                  "wails-app",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -620,12 +867,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert your Kobo annotations to Readwise highlights",
+                "homepage": null,
                 "id": 413103521,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-08T15:23:40Z",
+                "open_issues": 0,
                 "owner": "osteel",
                 "repo": "kobwise",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "annotations",
+                  "cli",
+                  "composer",
+                  "highlights",
+                  "kobo",
+                  "php",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -636,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 440185992,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-01-18T02:31:35Z",
+                "open_issues": 0,
                 "owner": "zakkolar",
                 "repo": "kobo-to-readwise",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -652,12 +917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send Kobo eReader bookmarks to Readwise",
+                "homepage": null,
                 "id": 391908543,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-21T16:46:52Z",
+                "open_issues": 0,
                 "owner": "taiansu",
                 "repo": "kobo_readwise",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -675,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Koreader plugin for Readwise Reader",
+                "homepage": null,
                 "id": 1318430385,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-20T07:36:04Z",
+                "open_issues": 0,
                 "owner": "tomtom800",
                 "repo": "readwisereader",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -698,12 +973,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reade is a cute Readwise API client for LaunchBar",
+                "homepage": null,
                 "id": 886085891,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-26T05:19:35Z",
+                "open_issues": 0,
                 "owner": "quinncomendant",
                 "repo": "Reade.lbaction",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "launchbar",
+                  "launchbar-action",
+                  "readwise",
+                  "readwise-api",
+                  "readwise-reader"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -721,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 434506589,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T09:19:27Z",
+                "open_issues": 0,
                 "owner": "benjypng",
                 "repo": "logseq-readwise-plugin",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -737,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export blocks to Readwise Reader",
+                "homepage": null,
                 "id": 562410514,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-09T07:42:18Z",
+                "open_issues": 0,
                 "owner": "pstuifzand",
                 "repo": "logseq-readwise-reader-export",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -760,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastodon bot for sending Mastodon toots to Readwise",
+                "homepage": null,
                 "id": 581867656,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-31T01:57:03Z",
+                "open_issues": 0,
                 "owner": "nicolevanderhoeven",
                 "repo": "mastobot",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -783,12 +1084,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sync Readwise highlights into your obsidian vault",
+                "homepage": null,
                 "id": 337212365,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-08-27T15:16:04Z",
+                "open_issues": 15,
                 "owner": "renehernandez",
                 "repo": "obsidian-readwise",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-plugin",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -799,12 +1110,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An inbox for processing readwise highlights in Obsidian",
+                "homepage": "https://tfthacker.com/ReadwiseInboxExperiment",
                 "id": 484013145,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2022-09-12T04:40:33Z",
+                "open_issues": 1,
                 "owner": "TfTHacker",
                 "repo": "obsidian-readwise-inbox",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "obsidian-md",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -815,12 +1134,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Obsidian plugin to publish notes to the Reader service of readwise.io (which is currently in beta)",
+                "homepage": null,
                 "id": 525804618,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-24T05:25:59Z",
+                "open_issues": 1,
                 "owner": "joerncodes",
                 "repo": "obsidian-readwise-reader",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "plugin",
+                  "reader",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -838,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple script for sending archived Readwise Reader items to Pinboard",
+                "homepage": null,
                 "id": 724856126,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-11T23:59:43Z",
+                "open_issues": 0,
                 "owner": "basepi",
                 "repo": "reader_to_pinboard",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -854,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import articles saved to Readwise Reader to Pinboard",
+                "homepage": null,
                 "id": 715573611,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-16T20:57:15Z",
+                "open_issues": 0,
                 "owner": "moefuerst",
                 "repo": "reader2pinboard",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -877,12 +1217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything you need to extend Raycast.",
+                "homepage": "https://developers.raycast.com",
                 "id": 408858330,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:37:59Z",
+                "open_issues": 1585,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7715
+                "stars": 7714,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -893,12 +1238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything you need to extend Raycast.",
+                "homepage": "https://developers.raycast.com",
                 "id": 408858330,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:37:59Z",
+                "open_issues": 1585,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7715
+                "stars": 7714,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -916,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RemNote Readwise Plugin",
+                "homepage": null,
                 "id": 575355576,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-19T13:51:21Z",
+                "open_issues": 17,
                 "owner": "bjsi",
                 "repo": "remnote-readwise",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -939,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate your Readwise highlights to Roam Research",
+                "homepage": "https://www.readwise2roam.com",
                 "id": 252625027,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2020-11-11T13:51:07Z",
+                "open_issues": 2,
                 "owner": "jammastergirish",
                 "repo": "Readwise2Roam",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -962,12 +1322,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imports highlights from Shortform.com to Readwise.io.",
+                "homepage": "https://nicolevanderhoeven.com",
                 "id": 395456045,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-10T21:23:41Z",
+                "open_issues": 1,
                 "owner": "nicolevanderhoeven",
                 "repo": "shortform-to-readwise",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "obsidian-md",
+                  "readwise",
+                  "shortform"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -985,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bot for integration with https://readwise.io",
+                "homepage": null,
                 "id": 585720330,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-14T22:23:01Z",
+                "open_issues": 0,
                 "owner": "ixnet",
                 "repo": "readwise_telegram_bot",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1008,12 +1382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 752626538,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-13T12:40:53Z",
+                "open_issues": 1,
                 "owner": "floriankilian",
                 "repo": "SaveToReadwiseReaderOnTwitter",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1031,12 +1410,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Export / synchronize wallabag annotations to readwise highlights",
+                "homepage": "https://rwxd.github.io/wallabag2readwise/",
                 "id": 544174913,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-01T16:57:52Z",
+                "open_issues": 12,
                 "owner": "rwxd",
                 "repo": "wallabag2readwise",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "export",
+                  "readwise",
+                  "sync",
+                  "wallabag"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1054,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export Weread hightlight 2 Readwise",
+                "homepage": null,
                 "id": 595739848,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-01T11:00:00Z",
+                "open_issues": 2,
                 "owner": "fuergaosi233",
                 "repo": "wereadwise",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1070,12 +1464,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool converts Weread notes to CSV compatible with Readwise. 将微信读书笔记导入 Readwise",
+                "homepage": null,
                 "id": 460694311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-18T03:28:09Z",
+                "open_issues": 0,
                 "owner": "wogong",
                 "repo": "weread-to-readwise",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "readwise",
+                  "weread"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1093,12 +1495,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import your Readwise notes directly into Workflowy with just a click!",
+                "homepage": null,
                 "id": 369888232,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-24T22:15:46Z",
+                "open_issues": 1,
                 "owner": "zackdn",
                 "repo": "readwise-workflowy-integration",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "note",
+                  "note-taking",
+                  "notebook",
+                  "notebooks",
+                  "notepad",
+                  "notes",
+                  "notes-app",
+                  "productivity",
+                  "reading",
+                  "reading-list",
+                  "reading-notes",
+                  "readwise",
+                  "workflowy"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1116,12 +1537,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Library to retrieve annotations and notes from Zotero and upload them to your Readwise.",
+                "homepage": null,
                 "id": 442956389,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-23T18:34:58Z",
+                "open_issues": 6,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "readwise",
+                  "zotero"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1132,12 +1561,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An automated and scheduled trigger of Zotero2Readwise Python library (https://github.com/e-alizadeh/Zotero2Readwise) ",
+                "homepage": null,
                 "id": 444604776,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-23T11:13:52Z",
+                "open_issues": 3,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise-Sync",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "automation",
+                  "readwise",
+                  "readwise-highlights",
+                  "zotero"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1155,12 +1594,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sending full article content of paywalled news websites right into your Readwise Reader feed to help you get a unified reading workflow.",
+                "homepage": null,
                 "id": 575072503,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-09T02:04:57Z",
+                "open_issues": 4,
                 "owner": "fr0der1c",
                 "repo": "Readform",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "paywall",
+                  "reader",
+                  "readwise",
+                  "rss"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1171,12 +1620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch new highlights from Readwise and create or update markdown files in directory (e.g. Dropbox)",
+                "homepage": null,
                 "id": 307178944,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-11T16:12:15Z",
+                "open_issues": 2,
                 "owner": "nicrivard",
                 "repo": "readwise2directory",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1187,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple toolchain for moving Remarkable highlights to Readwise",
+                "homepage": null,
                 "id": 421877345,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-28T00:22:51Z",
+                "open_issues": 1,
                 "owner": "zachwick",
                 "repo": "rextract",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1203,12 +1662,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project provides a set of Python scripts to interact with your Readwise Reader account via the Readwise API. Use it to automate tasks like adding articles, managing tags, exporting data, or other batch operations to streamline your knowledge management process.",
+                "homepage": null,
                 "id": 1024987629,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-08T03:35:43Z",
+                "open_issues": 0,
                 "owner": "LZong-tw",
                 "repo": "readwise-reader-management",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "automation",
+                  "python",
+                  "read-it-later",
+                  "readwise",
+                  "readwise-reader",
+                  "readwise-reader-api"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1219,12 +1690,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Alfred Workflow for your Readwise account",
+                "homepage": null,
                 "id": 622386531,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T10:31:45Z",
+                "open_issues": 1,
                 "owner": "giovannicoppola",
                 "repo": "alfred-readwise",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "alfred",
+                  "alfred-workflow",
+                  "kindle",
+                  "quotes",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1235,12 +1717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create EPUBs from your Readwise Reader inbox",
+                "homepage": null,
                 "id": 657022452,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-08T18:09:15Z",
+                "open_issues": 4,
                 "owner": "GeorgeHahn",
                 "repo": "readwise-epub",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1251,12 +1738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a script that will push all quotes from a folder to Readwise using the folder name as the book title. ",
+                "homepage": null,
                 "id": 672136202,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-29T13:08:55Z",
+                "open_issues": 0,
                 "owner": "bobbyhiddn",
                 "repo": "Readwise.md",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1267,12 +1759,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script using Readwise API endpoints to create a Word document from Kindle highlights stored in your Readwise account.",
+                "homepage": null,
                 "id": 515604101,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-25T19:25:09Z",
+                "open_issues": 0,
                 "owner": "AEchRod",
                 "repo": "Kindle-highlight-to-Word-document-script",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "kindle-highlights",
+                  "python-docx",
+                  "readwise",
+                  "readwise-api",
+                  "readwise-export",
+                  "readwise-highlights"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1283,12 +1787,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic extension for sending comments to Readwise as \"tweets\"",
+                "homepage": "https://chrome.google.com/webstore/detail/mbpckcijlikkkakedodgpgkdmgbdogmp",
                 "id": 450998810,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-31T07:55:33Z",
+                "open_issues": 4,
                 "owner": "marcus-crane",
                 "repo": "comments-to-readwise",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chrome-extension",
+                  "extension",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1299,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 390951673,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-12-10T22:15:18Z",
+                "open_issues": 0,
                 "owner": "riclib",
                 "repo": "mem-readwise-sync",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1315,12 +1833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://readwise-feed-production.up.railway.app/",
                 "id": 736050624,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-01-02T09:06:02Z",
+                "open_issues": 0,
                 "owner": "jckw",
                 "repo": "readwise-feed",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1331,12 +1854,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send highlights from Scribd to Readwise",
+                "homepage": "https://chrome.google.com/webstore/detail/scribd-readwise-integrati/ilpnpfninhcmhcnnecbaefciaaenkefo",
                 "id": 581884155,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-19T01:39:21Z",
+                "open_issues": 2,
                 "owner": "micahlt",
                 "repo": "scribd-readwise-integration",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "chrome-extension"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1347,12 +1877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Save snippets to Readwise, right from your browser!",
+                "homepage": null,
                 "id": 311111167,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-08T18:57:22Z",
+                "open_issues": 0,
                 "owner": "jchen1",
                 "repo": "plus-readwise",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1363,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore your Readwise highlights by semantically searching them and finding similar highlights.",
+                "homepage": null,
                 "id": 668926930,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-07T18:29:28Z",
+                "open_issues": 0,
                 "owner": "maxprogram",
                 "repo": "readspace",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1379,12 +1919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python script that tags all Readwise highlights using ChatGPT",
+                "homepage": null,
                 "id": 854769300,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-09T20:40:52Z",
+                "open_issues": 0,
                 "owner": "bit-of-a-shambles",
                 "repo": "readwise-GPT-tagger",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1395,12 +1940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "extract highlights from a given (markdown) file and upload them to Readwise",
+                "homepage": null,
                 "id": 434395952,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-23T15:36:38Z",
+                "open_issues": 1,
                 "owner": "elchead",
                 "repo": "readwise-note-extractor",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1411,12 +1961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform Readwise client built with Flutter.",
+                "homepage": null,
                 "id": 558654874,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2023-01-21T03:38:43Z",
+                "open_issues": 0,
                 "owner": "rockiedo",
                 "repo": "readwise-lite",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1427,12 +1982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 369398752,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-09-28T20:28:43Z",
+                "open_issues": 2,
                 "owner": "dexter-stpierre",
                 "repo": "diiggo-to-readwise",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1443,12 +2003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enhanced version of Readwise Reader UI for Arc browser Boost",
+                "homepage": null,
                 "id": 581323796,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-12-22T21:58:35Z",
+                "open_issues": 0,
                 "owner": "sodastereo",
                 "repo": "enhanced-readwise-reader",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1459,12 +2024,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 439835954,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-10T13:21:41Z",
+                "open_issues": 0,
                 "owner": "th1nkful",
                 "repo": "miniflux-to-reader",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "miniflux",
+                  "reader",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1475,12 +2049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A craft extension that allow import of Readwise highlights",
+                "homepage": null,
                 "id": 437321984,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-12-11T15:45:53Z",
+                "open_issues": 0,
                 "owner": "mattflux",
                 "repo": "readwise-craft-extension",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1491,12 +2070,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backup Readwise.io content to AWS S3",
+                "homepage": null,
                 "id": 410214710,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-09-28T20:14:58Z",
+                "open_issues": 1,
                 "owner": "fedragon",
                 "repo": "readwise-s3",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "aws-s3",
+                  "readwise"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1507,12 +2094,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Readwise Export Template for Roam (or other tools for thought)",
+                "homepage": null,
                 "id": 442857039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-18T05:44:14Z",
+                "open_issues": 2,
                 "owner": "natterstefan",
                 "repo": "readwise-template",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "networked-thought",
+                  "readwise",
+                  "readwise-api",
+                  "readwise-export",
+                  "readwise-highlights",
+                  "readwise-roam-template",
+                  "readwise-template",
+                  "roam-research",
+                  "roamjs",
+                  "roamresearch"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1523,12 +2126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import Highlights made in Raindrop Bookmarks to Readwise",
+                "homepage": null,
                 "id": 519729328,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-07-31T09:50:35Z",
+                "open_issues": 0,
                 "owner": "luhmann",
                 "repo": "raindrop-highlights-readwise",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1539,12 +2147,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Import Google Docs into Reader",
+                "homepage": null,
                 "id": 450988170,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-09T11:21:41Z",
+                "open_issues": 0,
                 "owner": "marcus-crane",
                 "repo": "reader-google-docs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1555,12 +2168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "readwise-random-quote.vercel.app",
                 "id": 361050190,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-07-06T02:06:04Z",
+                "open_issues": 0,
                 "owner": "TedisAgolli",
                 "repo": "readwise-random-quote",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1571,12 +2189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple electron app for Readwise Reader web application.",
+                "homepage": null,
                 "id": 612391863,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2023-03-10T21:05:28Z",
+                "open_issues": 0,
                 "owner": "ondrejfuhrer",
                 "repo": "readwise-reader-desktop",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1587,12 +2210,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sync your book/article highlights from Readwise to Ulysses.",
+                "homepage": null,
                 "id": 433189830,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2021-12-01T04:41:03Z",
+                "open_issues": 3,
                 "owner": "terror",
                 "repo": "readwise-ulysses",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ulysses"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1603,12 +2233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "POC Project Readwise data to discord to share my notes and articles with my friends",
+                "homepage": null,
                 "id": 740216548,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-01-07T21:20:15Z",
+                "open_issues": 0,
                 "owner": "clement0910",
                 "repo": "readwise_to_discord",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1619,12 +2254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import Moon+ Reader highlights to Readwise",
+                "homepage": null,
                 "id": 381063750,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2021-06-15T20:24:01Z",
+                "open_issues": 0,
                 "owner": "lockcp",
                 "repo": "mrexpt2html",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1635,12 +2275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI to export readwise highlights to Tana.io",
+                "homepage": null,
                 "id": 566412449,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-11-15T16:14:18Z",
+                "open_issues": 2,
                 "owner": "ashrithr",
                 "repo": "tana-readwise-exporter",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             },
@@ -1651,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically filter Readwise Reader feed entries",
+                "homepage": null,
                 "id": 1311525022,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-25T00:01:43Z",
+                "open_issues": 0,
                 "owner": "volker-fr",
                 "repo": "readwise-reader-filter",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -1670,15 +2320,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:16:24.674Z",
+    "last_updated": "2026-08-29T04:50:09.067Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
+      "homepage": null,
       "id": 742628088,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-28T13:05:26Z",
+      "open_issues": 1,
       "owner": "Scarvy",
       "repo": "awesome-readwise",
-      "stars": 304
+      "stars": 304,
+      "topics": [
+        "awesome-list",
+        "readwise",
+        "readwise-reader",
+        "resources"
+      ]
     },
     "original_repository_sha": "ef8e81c249f96f54036411917d76b535e9645bc7",
     "enhanced_repository": "enhansome/enhansome-readwise",
