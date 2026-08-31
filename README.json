@@ -327,7 +327,7 @@
                 "open_issues": 6,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -745,7 +745,7 @@
                 "id": 1046342851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T20:41:04Z",
+                "last_commit": "2026-08-31T04:16:54Z",
                 "open_issues": 13,
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
@@ -773,7 +773,7 @@
                 "id": 735390857,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-17T12:09:40Z",
+                "last_commit": "2026-08-31T12:08:56Z",
                 "open_issues": 0,
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:09:28Z",
-                "open_issues": 1551,
+                "last_commit": "2026-08-31T15:33:42Z",
+                "open_issues": 1539,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7716,
+                "stars": 7718,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:09:28Z",
-                "open_issues": 1551,
+                "last_commit": "2026-08-31T15:33:42Z",
+                "open_issues": 1539,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7716,
+                "stars": 7718,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:51:56.548Z",
+    "last_updated": "2026-08-31T16:15:01.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

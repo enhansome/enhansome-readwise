@@ -110,7 +110,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### CLI
 
-* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 70 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-27 - The official RW CLI.
+* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 71 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-27 - The official RW CLI.
 * [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - A Python-based CLI for Readwise Reader.
 * [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-01-01 - Sync Readwise highlights to local files.
 * [readwise](https://github.com/thoreinstein/readwise) ⭐ 5 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
@@ -148,13 +148,13 @@ A collection of open-source tools for Readwise and Reader.
 
 ### MCP - Model Context Protocol
 
-* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-26 - A Node.js HTTP server that provides proper MCP over HTTP.
+* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-08-31 - A Node.js HTTP server that provides proper MCP over HTTP.
 * [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 * [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,716 | 🐛 1,551 | 🌐 TypeScript | 📅 2026-08-30 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,716 | 🐛 1,551 | 🌐 TypeScript | 📅 2026-08-30 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,718 | 🐛 1,539 | 🌐 TypeScript | 📅 2026-08-31 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,718 | 🐛 1,539 | 🌐 TypeScript | 📅 2026-08-31 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
