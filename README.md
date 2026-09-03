@@ -100,7 +100,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 304 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 305 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,720 | 🐛 1,543 | 🌐 TypeScript | 📅 2026-09-02 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,720 | 🐛 1,543 | 🌐 TypeScript | 📅 2026-09-02 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,723 | 🐛 1,555 | 🌐 TypeScript | 📅 2026-09-03 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,723 | 🐛 1,555 | 🌐 TypeScript | 📅 2026-09-03 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
