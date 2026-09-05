@@ -324,7 +324,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T04:37:50Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
                 "stars": 72,
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T08:30:57Z",
-                "open_issues": 1554,
+                "last_commit": "2026-09-04T20:49:46Z",
+                "open_issues": 1565,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7726,
+                "stars": 7728,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T08:30:57Z",
-                "open_issues": 1554,
+                "last_commit": "2026-09-04T20:49:46Z",
+                "open_issues": 1565,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7726,
+                "stars": 7728,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1546,7 +1546,7 @@
                 "open_issues": 6,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise",
-                "stars": 183,
+                "stars": 182,
                 "topics": [
                   "readwise",
                   "zotero"
@@ -1570,7 +1570,7 @@
                 "open_issues": 3,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise-Sync",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "automation",
                   "readwise",
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:48:09.003Z",
+    "last_updated": "2026-09-05T11:53:32.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
