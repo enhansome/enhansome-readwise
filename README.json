@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T12:15:16Z",
-                "open_issues": 1566,
+                "last_commit": "2026-09-11T12:53:48Z",
+                "open_issues": 1556,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7738,
+                "stars": 7739,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T12:15:16Z",
-                "open_issues": 1566,
+                "last_commit": "2026-09-11T12:53:48Z",
+                "open_issues": 1556,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7738,
+                "stars": 7739,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1546,7 +1546,7 @@
                 "open_issues": 6,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "readwise",
                   "zotero"
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:59:09.092Z",
+    "last_updated": "2026-09-11T12:54:12.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
