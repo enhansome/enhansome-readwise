@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ryanlyn",
                 "repo": "readwise-skill",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T06:56:05Z",
-                "open_issues": 1565,
+                "last_commit": "2026-09-13T13:07:06Z",
+                "open_issues": 1553,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7741,
+                "stars": 7740,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T06:56:05Z",
-                "open_issues": 1565,
+                "last_commit": "2026-09-13T13:07:06Z",
+                "open_issues": 1553,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7741,
+                "stars": 7740,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1671,7 +1671,7 @@
                 "open_issues": 0,
                 "owner": "LZong-tw",
                 "repo": "readwise-reader-management",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "automation",
                   "python",
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:15:02.681Z",
+    "last_updated": "2026-09-13T13:22:17.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
