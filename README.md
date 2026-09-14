@@ -154,7 +154,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,740 | 🐛 1,553 | 🌐 TypeScript | 📅 2026-09-13 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,740 | 🐛 1,553 | 🌐 TypeScript | 📅 2026-09-13 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,742 | 🐛 1,562 | 🌐 TypeScript | 📅 2026-09-14 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,742 | 🐛 1,562 | 🌐 TypeScript | 📅 2026-09-14 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -298,7 +298,7 @@ A collection of open-source tools for Readwise and Reader.
 * [readwise\_to\_discord](https://github.com/clement0910/readwise_to_discord) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2024-01-07 - Share notes and articles by sending Readwise data to Discord.
 * [mrexpt2html](https://github.com/lockcp/mrexpt2html) ⭐ 1 | 🐛 0 | 📅 2021-06-15 - Import Moon+ Reader highlights to Readwise.
 * [tana-readwise-exporter](https://github.com/ashrithr/tana-readwise-exporter) ⭐ 1 | 🐛 2 | 🌐 Go | 📅 2022-11-15 - A CLI to export highlights to Tana.io.
-* [readwise-reader-filter](https://github.com/volker-fr/readwise-reader-filter) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-25 - A CLI tool to filter and manage Readwise Reader feed entries by configurable rules.
+* [readwise-reader-filter](https://github.com/volker-fr/readwise-reader-filter) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-13 - A CLI tool to filter and manage Readwise Reader feed entries by configurable rules.
 * [FeedWise](https://chromewebstore.google.com/detail/feedwise/mddkmjedifnddecckcjlfcoahjfgdcmb) - Transform your social media feeds into daily wisdom with Readwise highlights and Obsidian notes.
 
 ## Third-Party Integrations
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
