@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -327,7 +327,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T11:44:15Z",
-                "open_issues": 1569,
+                "last_commit": "2026-09-16T13:23:31Z",
+                "open_issues": 1581,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T11:44:15Z",
-                "open_issues": 1569,
+                "last_commit": "2026-09-16T13:23:31Z",
+                "open_issues": 1581,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:42:41.490Z",
+    "last_updated": "2026-09-16T13:36:19.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
