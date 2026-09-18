@@ -101,7 +101,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 ### Agent Skills
 
 * [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 308 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
-* [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
+* [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,750 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-09-17 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,750 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-09-17 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,752 | 🐛 1,605 | 🌐 TypeScript | 📅 2026-09-18 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,752 | 🐛 1,605 | 🌐 TypeScript | 📅 2026-09-18 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -270,7 +270,7 @@ A collection of open-source tools for Readwise and Reader.
 * [Readform](https://github.com/fr0der1c/Readform) ⭐ 83 | 🐛 4 | 🌐 Go | 📅 2024-03-09 - Send full articles from paywalled news websites to Reader feed.
 * [readwise2directory](https://github.com/nicrivard/readwise2directory) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2022-06-11 - Update and store highlights locally (in markdown).
 * [rextract](https://github.com/zachwick/rextract) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2021-10-28 - A toolchain for moving Remarkable highlights to Readwise.
-* [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-05-08 - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
+* [readwise-reader-management](https://github.com/LZong-tw/readwise-reader-management) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-05-08 - A CLI-based tool to manage documents in Readwise, currently focus on bulk duplicate deletions.
 * [alfred-readwise](https://github.com/giovannicoppola/alfred-readwise) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - An Alfred Workflow for your Readwise account.
 * [readwise-epub](https://github.com/GeorgeHahn/readwise-epub) ⭐ 16 | 🐛 4 | 🌐 Rust | 📅 2023-07-08 - Create EPUBs from your Readwise Reader inbox.
 * [Readwise.md](https://github.com/bobbyhiddn/Readwise.md) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-07-29 - A script that pushes all quotes from a folder to Readwise.
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
