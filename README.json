@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ryanlyn",
                 "repo": "readwise-skill",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T12:30:33Z",
-                "open_issues": 1607,
+                "last_commit": "2026-09-20T12:50:01Z",
+                "open_issues": 1618,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7753,
+                "stars": 7755,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T12:30:33Z",
-                "open_issues": 1607,
+                "last_commit": "2026-09-20T12:50:01Z",
+                "open_issues": 1618,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7753,
+                "stars": 7755,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:35:30.968Z",
+    "last_updated": "2026-09-20T13:06:56.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
