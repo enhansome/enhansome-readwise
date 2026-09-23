@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ryanlyn",
                 "repo": "readwise-skill",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:18:27Z",
-                "open_issues": 1630,
+                "last_commit": "2026-09-23T09:16:03Z",
+                "open_issues": 1631,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7762,
+                "stars": 7766,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:18:27Z",
-                "open_issues": 1630,
+                "last_commit": "2026-09-23T09:16:03Z",
+                "open_issues": 1631,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7762,
+                "stars": 7766,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:30:40.645Z",
+    "last_updated": "2026-09-23T13:44:31.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
@@ -2332,7 +2332,7 @@
       "open_issues": 1,
       "owner": "Scarvy",
       "repo": "awesome-readwise",
-      "stars": 305,
+      "stars": 304,
       "topics": [
         "awesome-list",
         "readwise",
