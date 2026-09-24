@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,766 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-09-23 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,766 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-09-23 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,769 | 🐛 1,634 | 🌐 TypeScript | 📅 2026-09-24 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,769 | 🐛 1,634 | 🌐 TypeScript | 📅 2026-09-24 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
