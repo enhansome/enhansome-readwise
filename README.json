@@ -1222,11 +1222,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T13:38:31Z",
-                "open_issues": 1634,
+                "last_commit": "2026-09-25T13:19:29Z",
+                "open_issues": 1621,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7769,
+                "stars": 7771,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1243,11 +1243,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T13:38:31Z",
-                "open_issues": 1634,
+                "last_commit": "2026-09-25T13:19:29Z",
+                "open_issues": 1621,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7769,
+                "stars": 7771,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1383,11 +1383,11 @@
               "repo_info": {
                 "archived": false,
                 "description": null,
-                "homepage": null,
+                "homepage": "https://greasyfork.org/de/scripts/597358-save-tweets-to-readwise-reader",
                 "id": 752626538,
                 "language": "JavaScript",
-                "license": null,
-                "last_commit": "2024-02-13T12:40:53Z",
+                "license": "MIT",
+                "last_commit": "2026-09-25T09:37:34Z",
                 "open_issues": 1,
                 "owner": "floriankilian",
                 "repo": "SaveToReadwiseReaderOnTwitter",
@@ -2320,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:38:43.009Z",
+    "last_updated": "2026-09-25T13:58:32.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
