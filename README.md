@@ -100,13 +100,13 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 311 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 312 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
 
 * [readwise-mcp](https://github.com/readwiseio/readwise-mcp) ⭐ 151 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-14 - The official RW MCP (Deprecated)
-* [readwise-mcp-enhanced](https://github.com/arnaldo-delisio/readwise-mcp-enhanced) ⭐ 67 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - A MCP server unifying RW Reader + RW with text processing and context optimization.
+* [readwise-mcp-enhanced](https://github.com/arnaldo-delisio/readwise-mcp-enhanced) ⭐ 68 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - A MCP server unifying RW Reader + RW with text processing and context optimization.
 
 ### CLI
 
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,771 | 🐛 1,621 | 🌐 TypeScript | 📅 2026-09-25 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,771 | 🐛 1,621 | 🌐 TypeScript | 📅 2026-09-25 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,773 | 🐛 1,614 | 🌐 TypeScript | 📅 2026-09-26 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,773 | 🐛 1,614 | 🌐 TypeScript | 📅 2026-09-26 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
