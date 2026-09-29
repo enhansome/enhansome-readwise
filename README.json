@@ -745,8 +745,8 @@
                 "id": 1046342851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T16:19:17Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-29T08:23:43Z",
+                "open_issues": 13,
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
                 "stars": 1,
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T14:35:37Z",
-                "open_issues": 1626,
+                "last_commit": "2026-09-29T14:54:06Z",
+                "open_issues": 1612,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7772,
+                "stars": 7771,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T14:35:37Z",
-                "open_issues": 1626,
+                "last_commit": "2026-09-29T14:54:06Z",
+                "open_issues": 1612,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7772,
+                "stars": 7771,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2328,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:50:57.466Z",
+    "last_updated": "2026-09-29T14:54:49.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
