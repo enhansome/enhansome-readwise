@@ -76,7 +76,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 **Ruby:**
 
-* [readwise-ruby](https://github.com/joshbeckman/readwise-ruby) ⭐ 11 | 🐛 2 | 🌐 Ruby | 📅 2025-07-18 - A minimal Readwise API client and highlight parsing library.
+* [readwise-ruby](https://github.com/joshbeckman/readwise-ruby) ⭐ 10 | 🐛 2 | 🌐 Ruby | 📅 2025-07-18 - A minimal Readwise API client and highlight parsing library.
 
 **Node.js:**
 
@@ -100,7 +100,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 315 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 317 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -166,7 +166,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Kobo
 
-* [october](https://github.com/marcus-crane/october) ⭐ 241 | 🐛 37 | 🌐 Go | 📅 2025-09-29 - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
+* [october](https://github.com/marcus-crane/october) ⭐ 242 | 🐛 37 | 🌐 Go | 📅 2025-09-29 - A simple GUI for retrieving Kobo highlights and syncing them with Readwise.
 * [kobwise](https://github.com/osteel/kobwise) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2023-01-08 - Convert Kobo annotations into Readwise highlights.
 * [kobo-to-readwise](https://github.com/zakkolar/kobo-to-readwise) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-18 - Extract highlights from Kobo devices and convert them into a CSV file for Readwise.
 * [kobo\_readwise](https://github.com/taiansu/kobo_readwise) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-21 - Send Kobo eReader bookmarks to Readwise.
@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,771 | 🐛 1,584 | 🌐 TypeScript | 📅 2026-10-02 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,771 | 🐛 1,584 | 🌐 TypeScript | 📅 2026-10-02 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,591 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,591 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -363,4 +363,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

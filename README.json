@@ -85,7 +85,7 @@
             "open_issues": 2,
             "owner": "joshbeckman",
             "repo": "readwise-ruby",
-            "stars": 11,
+            "stars": 10,
             "topics": [
               "gem",
               "readwise",
@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 315,
+                "stars": 317,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -850,7 +850,7 @@
                 "open_issues": 37,
                 "owner": "marcus-crane",
                 "repo": "october",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "golang",
                   "gui",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:48:08Z",
-                "open_issues": 1584,
+                "last_commit": "2026-10-03T04:47:57Z",
+                "open_issues": 1591,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7771,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:48:08Z",
-                "open_issues": 1584,
+                "last_commit": "2026-10-03T04:47:57Z",
+                "open_issues": 1591,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7771,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2328,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:49:30.015Z",
+    "last_updated": "2026-10-03T05:05:15.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
