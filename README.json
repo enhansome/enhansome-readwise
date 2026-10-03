@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:47:57Z",
-                "open_issues": 1591,
+                "last_commit": "2026-10-03T10:41:52Z",
+                "open_issues": 1589,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7772,
+                "stars": 7773,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:47:57Z",
-                "open_issues": 1591,
+                "last_commit": "2026-10-03T10:41:52Z",
+                "open_issues": 1589,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7772,
+                "stars": 7773,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1390,17 +1390,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": "https://greasyfork.org/de/scripts/597358-save-tweets-to-readwise-reader",
+                "description": "Tampermonkey userscript that adds a one-click \"Save to Readwise Reader\" button to every tweet on X/Twitter.",
+                "homepage": "https://greasyfork.org/scripts/597358-save-tweets-to-readwise-reader",
                 "id": 752626538,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T09:37:34Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T13:21:32Z",
+                "open_issues": 0,
                 "owner": "floriankilian",
                 "repo": "SaveToReadwiseReaderOnTwitter",
                 "stars": 7,
-                "topics": []
+                "topics": [
+                  "greasyfork",
+                  "productivity",
+                  "read-later",
+                  "readwise",
+                  "readwise-reader",
+                  "tampermonkey",
+                  "twitter",
+                  "userscript",
+                  "x-twitter"
+                ]
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
             }
@@ -2328,7 +2338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:15.130Z",
+    "last_updated": "2026-10-03T13:33:04.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

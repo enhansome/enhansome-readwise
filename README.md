@@ -205,8 +205,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,591 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,591 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,773 | 🐛 1,589 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,773 | 🐛 1,589 | 🌐 TypeScript | 📅 2026-10-03 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -245,7 +245,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Twitter
 
-* [SaveToReadwiseReaderOnTwitter](https://github.com/floriankilian/SaveToReadwiseReaderOnTwitter) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-25 - save tweets to Readwise Reader.
+* [SaveToReadwiseReaderOnTwitter](https://github.com/floriankilian/SaveToReadwiseReaderOnTwitter) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-03 - save tweets to Readwise Reader.
 
 ### Wallabag
 
