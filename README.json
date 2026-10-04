@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -323,11 +323,11 @@
                 "id": 1153715846,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T04:37:50Z",
+                "last_commit": "2026-10-04T00:30:40Z",
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T10:41:52Z",
-                "open_issues": 1589,
+                "last_commit": "2026-10-04T14:01:38Z",
+                "open_issues": 1599,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7773,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T10:41:52Z",
-                "open_issues": 1589,
+                "last_commit": "2026-10-04T14:01:38Z",
+                "open_issues": 1599,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7773,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1395,7 +1395,7 @@
                 "id": 752626538,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T13:21:32Z",
+                "last_commit": "2026-10-03T18:37:20Z",
                 "open_issues": 0,
                 "owner": "floriankilian",
                 "repo": "SaveToReadwiseReaderOnTwitter",
@@ -1470,7 +1470,7 @@
                 "open_issues": 2,
                 "owner": "fuergaosi233",
                 "repo": "wereadwise",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2338,7 +2338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:33:04.471Z",
+    "last_updated": "2026-10-04T14:11:24.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
