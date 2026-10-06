@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:58:21Z",
-                "open_issues": 1592,
+                "last_commit": "2026-10-06T14:55:21Z",
+                "open_issues": 1598,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7770,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:58:21Z",
-                "open_issues": 1592,
+                "last_commit": "2026-10-06T14:55:21Z",
+                "open_issues": 1598,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7770,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2338,7 +2338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:00.663Z",
+    "last_updated": "2026-10-06T15:19:58.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
