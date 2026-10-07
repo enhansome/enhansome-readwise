@@ -33,6 +33,7 @@ A curated list of awesome [Readwise](https://readwise.io/) and [Reader](https://
     * [RemNote](#remnote)
     * [Roam](#roam)
     * [Shortcuts (for iPhone and iPad)](#shortcuts-for-iphone-and-ipad)
+    * [Supernote by Ratta](#supernote-by-ratta)
     * [Shortform](#shortform)
     * [Telegram](#telegram)
     * [Twitter](#twitter)
@@ -205,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,598 | 🌐 TypeScript | 📅 2026-10-06 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,598 | 🌐 TypeScript | 📅 2026-10-06 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-10-07 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-10-07 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -229,6 +230,10 @@ A collection of open-source tools for Readwise and Reader.
 
   > Note: All of the shortcuts listed above were created by Chris.sk and were last updated on **2023-09-16**.
   > These shortcuts may become outdated over time, so please refer to the Discord conversation for the most recent updates. [here](https://discord.com/channels/886992134505398314/1092171483792556182).
+
+### Supernote by Ratta
+
+* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 * **Other Apps:**
 
@@ -307,6 +312,7 @@ A selection of products and services integrated with Readwise and/or Reader.
 
 * [Beeminder](https://www.beeminder.com/readwisereader) - Beeminder, a self-tracker with commitment contracts.
   * [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
+* [JustRead](https://justread.app/) - EPUB, PDF and comic reader for iPhone and iPad that syncs highlights and notes to Readwise automatically.
 * [PopClip](https://www.popclip.app/extensions/#q=readwise) - Instant text actions to save highlights to Readwise.
 
 ### Notes Apps
@@ -363,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
