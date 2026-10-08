@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-10-07 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-10-07 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,772 | 🐛 1,589 | 🌐 TypeScript | 📅 2026-10-08 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,772 | 🐛 1,589 | 🌐 TypeScript | 📅 2026-10-08 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -233,7 +233,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Supernote by Ratta
 
-* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
+* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 * **Other Apps:**
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
