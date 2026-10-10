@@ -101,7 +101,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 320 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 321 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,777 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-10-09 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,777 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-10-09 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,776 | 🐛 1,563 | 🌐 TypeScript | 📅 2026-10-10 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,776 | 🐛 1,563 | 🌐 TypeScript | 📅 2026-10-10 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -233,7 +233,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Supernote by Ratta
 
-* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
+* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 * **Other Apps:**
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
