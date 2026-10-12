@@ -781,7 +781,7 @@
                 "id": 735390857,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T03:04:37Z",
+                "last_commit": "2026-10-12T08:04:36Z",
                 "open_issues": 0,
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T14:51:16Z",
-                "open_issues": 1562,
+                "last_commit": "2026-10-12T18:02:32Z",
+                "open_issues": 1598,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7777,
+                "stars": 7778,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T14:51:16Z",
-                "open_issues": 1562,
+                "last_commit": "2026-10-12T18:02:32Z",
+                "open_issues": 1598,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7777,
+                "stars": 7778,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1335,8 +1335,8 @@
                 "id": 1393697476,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T22:51:17Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-12T08:49:27Z",
+                "open_issues": 2,
                 "owner": "philips",
                 "repo": "readwise-supernote-digest",
                 "stars": 4,
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:58:55.223Z",
+    "last_updated": "2026-10-12T18:04:22.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

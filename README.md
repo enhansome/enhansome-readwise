@@ -155,7 +155,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,777 | 🐛 1,562 | 🌐 TypeScript | 📅 2026-10-11 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,777 | 🐛 1,562 | 🌐 TypeScript | 📅 2026-10-11 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,778 | 🐛 1,598 | 🌐 TypeScript | 📅 2026-10-12 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,778 | 🐛 1,598 | 🌐 TypeScript | 📅 2026-10-12 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -233,7 +233,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Supernote by Ratta
 
-* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
+* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-12 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 * **Other Apps:**
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
