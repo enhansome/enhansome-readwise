@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T18:02:32Z",
-                "open_issues": 1598,
+                "last_commit": "2026-10-13T14:13:08Z",
+                "open_issues": 1535,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7778,
+                "stars": 7782,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T18:02:32Z",
-                "open_issues": 1598,
+                "last_commit": "2026-10-13T14:13:08Z",
+                "open_issues": 1535,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7778,
+                "stars": 7782,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 3,
                 "owner": "e-alizadeh",
                 "repo": "Zotero2Readwise-Sync",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "automation",
                   "readwise",
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:04:22.658Z",
+    "last_updated": "2026-10-13T16:10:29.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
@@ -2378,7 +2378,7 @@
       "open_issues": 0,
       "owner": "Scarvy",
       "repo": "awesome-readwise",
-      "stars": 303,
+      "stars": 304,
       "topics": [
         "awesome-list",
         "readwise",
