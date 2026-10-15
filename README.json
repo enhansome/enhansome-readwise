@@ -1151,7 +1151,7 @@
                 "open_issues": 1,
                 "owner": "joerncodes",
                 "repo": "obsidian-readwise-reader",
-                "stars": 28,
+                "stars": 27,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T13:51:12Z",
+                "last_commit": "2026-10-15T13:26:58Z",
                 "open_issues": 1565,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7785,
+                "stars": 7788,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T13:51:12Z",
+                "last_commit": "2026-10-15T13:26:58Z",
                 "open_issues": 1565,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7785,
+                "stars": 7788,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:52:59.366Z",
+    "last_updated": "2026-10-15T13:34:04.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

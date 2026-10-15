@@ -197,7 +197,7 @@ A collection of open-source tools for Readwise and Reader.
 
 * [obsidian-readwise](https://github.com/renehernandez/obsidian-readwise) ⭐ 114 | 🐛 15 | 🌐 TypeScript | 📅 2021-08-27 - Sync Readwise highlights into your Obsidian vault.
 * [obsidian-readwise-inbox](https://github.com/TfTHacker/obsidian-readwise-inbox) ⭐ 79 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-12 - An inbox for processing Readwise highlights in Obsidian.
-* [obsidian-readwise-reader](https://github.com/joerncodes/obsidian-readwise-reader) ⭐ 28 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-24 - An Obsidian plugin to publish notes to Readwise Reader.
+* [obsidian-readwise-reader](https://github.com/joerncodes/obsidian-readwise-reader) ⭐ 27 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-24 - An Obsidian plugin to publish notes to Readwise Reader.
 
 ### Pinboard
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,785 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-10-14 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,785 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-10-14 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,788 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-10-15 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,788 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-10-15 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
