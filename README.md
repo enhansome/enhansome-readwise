@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,790 | 🐛 1,567 | 🌐 TypeScript | 📅 2026-10-16 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,790 | 🐛 1,567 | 🌐 TypeScript | 📅 2026-10-16 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,793 | 🐛 1,569 | 🌐 TypeScript | 📅 2026-10-17 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,793 | 🐛 1,569 | 🌐 TypeScript | 📅 2026-10-17 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -268,7 +268,7 @@ A collection of open-source tools for Readwise and Reader.
 ### Zotero
 
 * [Zotero2Readwise](https://github.com/e-alizadeh/Zotero2Readwise) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - A Python library to retrieve annotations and notes from Zotero and upload them to Readwise.
-* [Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync) ⭐ 84 | 🐛 3 | 📅 2025-11-23 - Automated and scheduled trigger for the Zotero2Readwise Python library.
+* [Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync) ⭐ 85 | 🐛 3 | 📅 2025-11-23 - Automated and scheduled trigger for the Zotero2Readwise Python library.
 
 ### Other
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
