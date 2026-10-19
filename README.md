@@ -155,7 +155,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,793 | 🐛 1,567 | 🌐 TypeScript | 📅 2026-10-18 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,793 | 🐛 1,567 | 🌐 TypeScript | 📅 2026-10-18 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,794 | 🐛 1,585 | 🌐 TypeScript | 📅 2026-10-19 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,794 | 🐛 1,585 | 🌐 TypeScript | 📅 2026-10-19 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

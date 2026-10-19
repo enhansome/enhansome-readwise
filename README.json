@@ -781,7 +781,7 @@
                 "id": 735390857,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-12T08:04:36Z",
+                "last_commit": "2026-10-19T04:04:08Z",
                 "open_issues": 0,
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:18:07Z",
-                "open_issues": 1567,
+                "last_commit": "2026-10-19T15:29:25Z",
+                "open_issues": 1585,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7793,
+                "stars": 7794,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:18:07Z",
-                "open_issues": 1567,
+                "last_commit": "2026-10-19T15:29:25Z",
+                "open_issues": 1585,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7793,
+                "stars": 7794,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:40:42.901Z",
+    "last_updated": "2026-10-19T15:45:14.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
