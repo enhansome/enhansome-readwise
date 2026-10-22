@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T09:32:50Z",
-                "open_issues": 1626,
+                "last_commit": "2026-10-22T13:48:16Z",
+                "open_issues": 1605,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7802,
+                "stars": 7804,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T09:32:50Z",
-                "open_issues": 1626,
+                "last_commit": "2026-10-22T13:48:16Z",
+                "open_issues": 1605,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7802,
+                "stars": 7804,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1745,7 +1745,7 @@
                 "open_issues": 1,
                 "owner": "giovannicoppola",
                 "repo": "alfred-readwise",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "alfred",
                   "alfred-workflow",
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:59:01.156Z",
+    "last_updated": "2026-10-22T13:56:50.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
