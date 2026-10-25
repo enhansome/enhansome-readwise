@@ -299,7 +299,7 @@
                 "open_issues": 3,
                 "owner": "arnaldo-delisio",
                 "repo": "readwise-mcp-enhanced",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T05:26:36Z",
-                "open_issues": 1621,
+                "last_commit": "2026-10-25T12:55:23Z",
+                "open_issues": 1631,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7806,
+                "stars": 7809,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T05:26:36Z",
-                "open_issues": 1621,
+                "last_commit": "2026-10-25T12:55:23Z",
+                "open_issues": 1631,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7806,
+                "stars": 7809,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:48:38.809Z",
+    "last_updated": "2026-10-25T13:15:37.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

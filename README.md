@@ -107,7 +107,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 ### MCP
 
 * [readwise-mcp](https://github.com/readwiseio/readwise-mcp) ⭐ 152 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-14 - The official RW MCP (Deprecated)
-* [readwise-mcp-enhanced](https://github.com/arnaldo-delisio/readwise-mcp-enhanced) ⭐ 70 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - A MCP server unifying RW Reader + RW with text processing and context optimization.
+* [readwise-mcp-enhanced](https://github.com/arnaldo-delisio/readwise-mcp-enhanced) ⭐ 69 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - A MCP server unifying RW Reader + RW with text processing and context optimization.
 
 ### CLI
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,806 | 🐛 1,621 | 🌐 TypeScript | 📅 2026-10-24 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,806 | 🐛 1,621 | 🌐 TypeScript | 📅 2026-10-24 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,809 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-10-25 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,809 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-10-25 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
