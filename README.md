@@ -101,7 +101,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 324 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 325 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -111,7 +111,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### CLI
 
-* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 77 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-04 - The official RW CLI.
+* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 78 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-04 - The official RW CLI.
 * [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - A Python-based CLI for Readwise Reader.
 * [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-01-01 - Sync Readwise highlights to local files.
 * [readwise](https://github.com/thoreinstein/readwise) ⭐ 5 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
@@ -149,7 +149,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### MCP - Model Context Protocol
 
-* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-10-24 - A Node.js HTTP server that provides proper MCP over HTTP.
+* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-10-26 - A Node.js HTTP server that provides proper MCP over HTTP.
 * [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 * [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,809 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-10-25 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,809 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-10-25 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,811 | 🐛 1,642 | 🌐 TypeScript | 📅 2026-10-26 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,811 | 🐛 1,642 | 🌐 TypeScript | 📅 2026-10-26 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -287,8 +287,8 @@ A collection of open-source tools for Readwise and Reader.
 * [plus-readwise](https://github.com/jchen1/plus-readwise) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-08 - Save snippets from the browser to Readwise.
 * [readspace](https://github.com/maxprogram/readspace) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-07 - A semantic search tool for your Readwise highlights.
 * [readwise-gpt-tagger](https://github.com/duartemartins/readwise-gpt-tagger) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-09-09 - Export all highlights to CSV, tag them using GPT, and update them on Readwise.
+* [readwise-list](https://github.com/rockiedo/readwise-lite) ⭐ 5 | 🐛 0 | 🌐 Dart | 📅 2023-01-21 - A minimal version of the Readwise app.
 * [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2022-03-23 - Export markdown highlights to Readwise.
-* [readwise-list](https://github.com/rockiedo/readwise-lite) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2023-01-21 - A minimal version of the Readwise app.
 * [diiggo-to-readwise](https://github.com/dexter-stpierre/diiggo-to-readwise) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2021-09-28 - Sync Diigo highlights to Readwise.
 * [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2022-12-22 - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
 * [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) ⚠️ Archived - Export Miniflux articles to Readwise Reader.
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

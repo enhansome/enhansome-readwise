@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 324,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -327,7 +327,7 @@
                 "open_issues": 7,
                 "owner": "readwiseio",
                 "repo": "readwise-cli",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -745,7 +745,7 @@
                 "id": 1046342851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T10:48:55Z",
+                "last_commit": "2026-10-26T10:26:04Z",
                 "open_issues": 13,
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:55:23Z",
-                "open_issues": 1631,
+                "last_commit": "2026-10-26T14:21:25Z",
+                "open_issues": 1642,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7809,
+                "stars": 7811,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:55:23Z",
-                "open_issues": 1631,
+                "last_commit": "2026-10-26T14:21:25Z",
+                "open_issues": 1642,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7809,
+                "stars": 7811,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1981,6 +1981,27 @@
             },
             {
               "node_type": "item",
+              "title": "readwise-list",
+              "description": "A minimal version of the Readwise app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform Readwise client built with Flutter.",
+                "homepage": null,
+                "id": 558654874,
+                "language": "Dart",
+                "license": "MIT",
+                "last_commit": "2023-01-21T03:38:43Z",
+                "open_issues": 0,
+                "owner": "rockiedo",
+                "repo": "readwise-lite",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
+            },
+            {
+              "node_type": "item",
               "title": "readwise-note-extractor",
               "description": "Export markdown highlights to Readwise.",
               "children": [],
@@ -1996,27 +2017,6 @@
                 "owner": "elchead",
                 "repo": "readwise-note-extractor",
                 "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:16:24.674Z"
-            },
-            {
-              "node_type": "item",
-              "title": "readwise-list",
-              "description": "A minimal version of the Readwise app.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cross-platform Readwise client built with Flutter.",
-                "homepage": null,
-                "id": 558654874,
-                "language": "Dart",
-                "license": "MIT",
-                "last_commit": "2023-01-21T03:38:43Z",
-                "open_issues": 0,
-                "owner": "rockiedo",
-                "repo": "readwise-lite",
-                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:15:37.943Z",
+    "last_updated": "2026-10-26T15:19:20.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
