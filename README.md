@@ -111,7 +111,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### CLI
 
-* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 78 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-04 - The official RW CLI.
+* [readwise-cli](https://github.com/readwiseio/readwise-cli) ⭐ 79 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-27 - The official RW CLI.
 * [readwise-reader-cli](https://github.com/Scarvy/readwise-reader-cli) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - A Python-based CLI for Readwise Reader.
 * [ReadwiseSync](https://github.com/heshanpadmasiri/ReadwiseSync) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-01-01 - Sync Readwise highlights to local files.
 * [readwise](https://github.com/thoreinstein/readwise) ⭐ 5 | 🐛 0 | 📅 2026-02-07 - A Gemini CLI extension for interfacing with your RW Reader highlights.
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,814 | 🐛 1,641 | 🌐 TypeScript | 📅 2026-10-27 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,814 | 🐛 1,641 | 🌐 TypeScript | 📅 2026-10-27 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,821 | 🐛 1,674 | 🌐 TypeScript | 📅 2026-10-28 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,821 | 🐛 1,674 | 🌐 TypeScript | 📅 2026-10-28 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -233,7 +233,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Supernote by Ratta
 
-* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-20 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
+* [Readwise Supernote Digest](https://github.com/philips/readwise-supernote-digest#readwise-supernote-digest) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-20 - A Supernote plugin to integrate Readwise into the epaper tablet's note taking application.
 
 * **Other Apps:**
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
