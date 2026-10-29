@@ -229,7 +229,7 @@
                 "open_issues": 5,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 326,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -745,7 +745,7 @@
                 "id": 1046342851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T10:26:04Z",
+                "last_commit": "2026-10-29T09:24:12Z",
                 "open_issues": 13,
                 "owner": "CaseyRo",
                 "repo": "mcp-readwise",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:53:25Z",
-                "open_issues": 1674,
+                "last_commit": "2026-10-29T14:34:30Z",
+                "open_issues": 1649,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7821,
+                "stars": 7820,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:53:25Z",
-                "open_issues": 1674,
+                "last_commit": "2026-10-29T14:34:30Z",
+                "open_issues": 1649,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7821,
+                "stars": 7820,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:14:50.508Z",
+    "last_updated": "2026-10-29T15:19:49.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",

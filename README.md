@@ -101,7 +101,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 326 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 327 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -149,7 +149,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### MCP - Model Context Protocol
 
-* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-10-26 - A Node.js HTTP server that provides proper MCP over HTTP.
+* [readwise-mcp-http-server](https://github.com/CaseyRo/readwise-mcp-http-server) ⭐ 1 | 🐛 13 | 🌐 Python | 📅 2026-10-29 - A Node.js HTTP server that provides proper MCP over HTTP.
 * [readwise-mcp](https://www.npmjs.com/package/@readwise/readwise-mcp) - the official Readwise MCP server.
 * [remote-readwise-mcp](https://github.com/mayankbohra/remote-readwise-mcp) - a Python MCP server.
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,821 | 🐛 1,674 | 🌐 TypeScript | 📅 2026-10-28 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,821 | 🐛 1,674 | 🌐 TypeScript | 📅 2026-10-28 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,820 | 🐛 1,649 | 🌐 TypeScript | 📅 2026-10-29 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,820 | 🐛 1,649 | 🌐 TypeScript | 📅 2026-10-29 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
