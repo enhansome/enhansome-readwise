@@ -781,7 +781,7 @@
                 "id": 735390857,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-19T04:04:08Z",
+                "last_commit": "2026-11-02T03:04:57Z",
                 "open_issues": 0,
                 "owner": "iloveitaly",
                 "repo": "readwise-to-datasette",
@@ -816,7 +816,7 @@
                 "open_issues": 1,
                 "owner": "biokraft",
                 "repo": "kindle2readwise",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "automation",
                   "kindle",
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T15:06:22Z",
-                "open_issues": 1643,
+                "last_commit": "2026-11-02T16:51:50Z",
+                "open_issues": 1657,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7826,
+                "stars": 7830,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T15:06:22Z",
-                "open_issues": 1643,
+                "last_commit": "2026-11-02T16:51:50Z",
+                "open_issues": 1657,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7826,
+                "stars": 7830,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1981,27 +1981,6 @@
             },
             {
               "node_type": "item",
-              "title": "readwise-list",
-              "description": "A minimal version of the Readwise app.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cross-platform Readwise client built with Flutter.",
-                "homepage": null,
-                "id": 558654874,
-                "language": "Dart",
-                "license": "MIT",
-                "last_commit": "2023-01-21T03:38:43Z",
-                "open_issues": 0,
-                "owner": "rockiedo",
-                "repo": "readwise-lite",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:16:24.674Z"
-            },
-            {
-              "node_type": "item",
               "title": "readwise-note-extractor",
               "description": "Export markdown highlights to Readwise.",
               "children": [],
@@ -2017,6 +1996,27 @@
                 "owner": "elchead",
                 "repo": "readwise-note-extractor",
                 "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:16:24.674Z"
+            },
+            {
+              "node_type": "item",
+              "title": "readwise-list",
+              "description": "A minimal version of the Readwise app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform Readwise client built with Flutter.",
+                "homepage": null,
+                "id": 558654874,
+                "language": "Dart",
+                "license": "MIT",
+                "last_commit": "2023-01-21T03:38:43Z",
+                "open_issues": 0,
+                "owner": "rockiedo",
+                "repo": "readwise-lite",
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:20:06.370Z",
+    "last_updated": "2026-11-02T18:36:19.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
@@ -2378,7 +2378,7 @@
       "open_issues": 1,
       "owner": "Scarvy",
       "repo": "awesome-readwise",
-      "stars": 305,
+      "stars": 306,
       "topics": [
         "awesome-list",
         "readwise",

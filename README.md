@@ -155,7 +155,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Datasette
 
-* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - Extract Readwise highlights into a Datasette SQLite database.
+* [readwise-to-datasette](https://github.com/iloveitaly/readwise-to-datasette) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Extract Readwise highlights into a Datasette SQLite database.
 
 ### Discord
 
@@ -163,7 +163,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Kindle
 
-* [kindle2readwise](https://github.com/biokraft/kindle2readwise) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-08-26 - A Python app for exporting Kindle highlights to Readwise.
+* [kindle2readwise](https://github.com/biokraft/kindle2readwise) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-08-26 - A Python app for exporting Kindle highlights to Readwise.
 
 ### Kobo
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,826 | 🐛 1,643 | 🌐 TypeScript | 📅 2026-11-01 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,826 | 🐛 1,643 | 🌐 TypeScript | 📅 2026-11-01 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,830 | 🐛 1,657 | 🌐 TypeScript | 📅 2026-11-02 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,830 | 🐛 1,657 | 🌐 TypeScript | 📅 2026-11-02 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -287,8 +287,8 @@ A collection of open-source tools for Readwise and Reader.
 * [plus-readwise](https://github.com/jchen1/plus-readwise) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-08 - Save snippets from the browser to Readwise.
 * [readspace](https://github.com/maxprogram/readspace) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-07 - A semantic search tool for your Readwise highlights.
 * [readwise-gpt-tagger](https://github.com/duartemartins/readwise-gpt-tagger) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-09-09 - Export all highlights to CSV, tag them using GPT, and update them on Readwise.
-* [readwise-list](https://github.com/rockiedo/readwise-lite) ⭐ 5 | 🐛 0 | 🌐 Dart | 📅 2023-01-21 - A minimal version of the Readwise app.
 * [readwise-note-extractor](https://github.com/elchead/readwise-note-extractor) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2022-03-23 - Export markdown highlights to Readwise.
+* [readwise-list](https://github.com/rockiedo/readwise-lite) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2023-01-21 - A minimal version of the Readwise app.
 * [diiggo-to-readwise](https://github.com/dexter-stpierre/diiggo-to-readwise) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2021-09-28 - Sync Diigo highlights to Readwise.
 * [enhanced-readwise-reader](https://github.com/sodastereo/enhanced-readwise-reader) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2022-12-22 - An enhanced version of the Readwise Reader UI for the Arc browser Boost.
 * [miniflux-to-reader](https://github.com/th1nkful/miniflux-to-reader) ⚠️ Archived - Export Miniflux articles to Readwise Reader.
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
