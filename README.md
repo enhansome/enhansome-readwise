@@ -101,7 +101,7 @@ This section lists client libraries for the *Readwise API* and the *Readwise Rea
 
 ### Agent Skills
 
-* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 327 | 🐛 5 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
+* [readwise-skills](https://github.com/readwiseio/readwise-skills) ⭐ 327 | 🐛 6 | 🌐 Python | 📅 2026-06-19 - The official agent skills from RW.
 * [readwise-skill](https://github.com/ryanlyn/readwise-skill) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-04-03 - A collection of agent skills and CLI for RW + Reader.
 
 ### MCP
@@ -145,7 +145,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Calibre
 
-* [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) ⭐ 65 | 🐛 11 | 🌐 Python | 📅 2023-08-20 - An export plugin for Calibre.
+* [calibre-plugin-readwise](https://github.com/iamwillbar/calibre-plugin-readwise) ⭐ 66 | 🐛 11 | 🌐 Python | 📅 2023-08-20 - An export plugin for Calibre.
 
 ### MCP - Model Context Protocol
 
@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,830 | 🐛 1,657 | 🌐 TypeScript | 📅 2026-11-02 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,830 | 🐛 1,657 | 🌐 TypeScript | 📅 2026-11-02 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,833 | 🐛 1,636 | 🌐 TypeScript | 📅 2026-11-03 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,833 | 🐛 1,636 | 🌐 TypeScript | 📅 2026-11-03 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -267,7 +267,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Zotero
 
-* [Zotero2Readwise](https://github.com/e-alizadeh/Zotero2Readwise) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - A Python library to retrieve annotations and notes from Zotero and upload them to Readwise.
+* [Zotero2Readwise](https://github.com/e-alizadeh/Zotero2Readwise) ⭐ 184 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - A Python library to retrieve annotations and notes from Zotero and upload them to Readwise.
 * [Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync) ⭐ 85 | 🐛 3 | 📅 2025-11-23 - Automated and scheduled trigger for the Zotero2Readwise Python library.
 
 ### Other
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
