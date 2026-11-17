@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,843 | 🐛 1,671 | 🌐 TypeScript | 📅 2026-11-16 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,843 | 🐛 1,671 | 🌐 TypeScript | 📅 2026-11-16 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,842 | 🐛 1,642 | 🌐 TypeScript | 📅 2026-11-17 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,842 | 🐛 1,642 | 🌐 TypeScript | 📅 2026-11-17 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -258,7 +258,7 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Weread
 
-* [wereadwise](https://github.com/fuergaosi233/wereadwise) ⭐ 98 | 🐛 2 | 🌐 TypeScript | 📅 2024-01-01 - Export Weread highlights to Readwise.
+* [wereadwise](https://github.com/fuergaosi233/wereadwise) ⭐ 99 | 🐛 2 | 🌐 TypeScript | 📅 2024-01-01 - Export Weread highlights to Readwise.
 * [weread-to-readwise](https://github.com/wogong/weread-to-readwise) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2022-02-18 - Convert Weread notes into a CSV file compatible with Readwise.
 
 ### Workflowy
@@ -369,4 +369,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
