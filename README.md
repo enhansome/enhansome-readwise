@@ -206,8 +206,8 @@ A collection of open-source tools for Readwise and Reader.
 
 ### Raycast
 
-* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,843 | 🐛 1,637 | 🌐 TypeScript | 📅 2026-11-18 - extension to interact with Reader.
-* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,843 | 🐛 1,637 | 🌐 TypeScript | 📅 2026-11-18 - extension to interact with Readwise.
+* [readwise-reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) ⭐ 7,846 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-11-19 - extension to interact with Reader.
+* [readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) ⭐ 7,846 | 🐛 1,631 | 🌐 TypeScript | 📅 2026-11-19 - extension to interact with Readwise.
 
 ### RemNote
 
@@ -314,6 +314,7 @@ A selection of products and services integrated with Readwise and/or Reader.
   * [Beeminder Blog](https://blog.beeminder.com/readwise/) - A blog post discussing the integration.
 * [JustRead](https://justread.app/) - EPUB, PDF and comic reader for iPhone and iPad that syncs highlights and notes to Readwise automatically.
 * [PopClip](https://www.popclip.app/extensions/#q=readwise) - Instant text actions to save highlights to Readwise.
+* [Taco Digest](https://tacodigest.com/readwise-to-email) - A personal email digest that shows your Readwise Daily Review alongside your newsletters, RSS feeds and other sources.
 
 ### Notes Apps
 
@@ -369,4 +370,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
