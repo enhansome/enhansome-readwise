@@ -229,7 +229,7 @@
                 "open_issues": 6,
                 "owner": "readwiseio",
                 "repo": "readwise-skills",
-                "stars": 331,
+                "stars": 332,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1230,11 +1230,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T19:22:30Z",
-                "open_issues": 1632,
+                "last_commit": "2026-11-25T17:00:55Z",
+                "open_issues": 1580,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7851,
+                "stars": 7853,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -1251,11 +1251,11 @@
                 "id": 408858330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T19:22:30Z",
-                "open_issues": 1632,
+                "last_commit": "2026-11-25T17:00:55Z",
+                "open_issues": 1580,
                 "owner": "raycast",
                 "repo": "extensions",
-                "stars": 7851,
+                "stars": 7853,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:16:24.674Z"
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:35:36.163Z",
+    "last_updated": "2026-11-25T18:43:35.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Readwise libraries, plugins, software, and resources.",
